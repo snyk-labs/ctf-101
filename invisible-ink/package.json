@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "lodash": "4.17.4",
-    "express": "4.17.1",
+    "express": "4.21.2",
     "body-parser": "1.19.0"
   },
   "author": "",
